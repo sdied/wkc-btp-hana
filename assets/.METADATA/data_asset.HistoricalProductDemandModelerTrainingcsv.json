@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "Historical_Product_Demand_Modeler_Training.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2023-02-17T15:18:04Z",
+    "created": 1676647084506,
+    "asset_id": "data_asset.HistoricalProductDemandModelerTrainingcsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "Historical_Product_Demand_Modeler_Training.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/Historical_Product_Demand_Modeler_Training.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2023-02-17T15:18:04Z",
+      "id": "e285013a-ec6d-4a31-b792-0426edc0f2b6",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
